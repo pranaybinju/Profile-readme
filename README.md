@@ -21,7 +21,7 @@ Add info about careers: https://kiprosh.com/careers
 
 <p align="center">
 <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/kiprosh/mycompany/"><img src="https://img.shields.io/badge/-Kiprosh-0E76A8?style=for-the-badge&logo=linkedin"/></a>
-<a target="_blank" rel="noopener" href="mailto:hello@kiprosh.com"><img src="https://img.shields.io/badge/-mail@kiprosh.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" rel="noopener" href="mailto:hello@kiprosh.com"><img src="https://img.shields.io/badge/-hello@kiprosh.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a target="_blank" rel="noopener" href="https://twitter.com/KiproshHQ"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
