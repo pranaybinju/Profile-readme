@@ -5,13 +5,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![Ruby on rails](https://img.shields.io/badge/-Ruby_on_rails-05122A?style=flat&logo=ruby&logoColor=A91401)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-ASP_.NET-05122A?logo=.net)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-05122A?style=flat&logo=ruby&logoColor=A91401)&nbsp;
+![ASP.NET MVC](https://img.shields.io/badge/-ASP_.NET_MVC-05122A?logo=dotnet)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ### 🚀 &nbsp;Jobs
 
