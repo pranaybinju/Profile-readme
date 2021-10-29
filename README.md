@@ -10,11 +10,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat&logo=ruby)
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=A91401)
 
 ### 🚀 &nbsp;Jobs
 
-We are always looking for qualified people, check our homepage for more info: https://yasoon.com/career/
+Add info about careers: https://kiprosh.com/careers
 &nbsp;
 
 ### :link: &nbsp;Connect with us
