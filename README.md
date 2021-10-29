@@ -1,16 +1,17 @@
-<p align="center"><img src="https://res.cloudinary.com/trackive/image/upload//kiprosh%202.0/logo.svg" width="360px"></p>
+<p align="center"><img src="https://res.cloudinary.com/trackive/image/upload/c_fill,h_175,w_600/v1567775864/public-files/kiprosh-logo-red.png" width="360px"></p>
 
 <h1 align="center">We craft scalable web and mobile applications.</h1>
 
 ### 🛠 &nbsp;Tech Stack
 
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+
+![Ruby on rails](https://img.shields.io/badge/-Ruby_on_rails-05122A?style=flat&logo=ruby&logoColor=A91401)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP_.NET-05122A?logo=.net)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=A91401)
 
 ### 🚀 &nbsp;Jobs
 
