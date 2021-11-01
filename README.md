@@ -13,7 +13,7 @@
 
 ### 🚀 &nbsp;Jobs
 
-Add info about careers: https://kiprosh.com/careers
+Join Our Team: https://kiprosh.com/careers
 &nbsp;
 
 ### :link: &nbsp;Connect with us
