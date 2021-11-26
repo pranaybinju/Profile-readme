@@ -18,7 +18,7 @@
 Join Our Team: https://kiprosh.com/careers
 &nbsp;
 
-## :link: &nbsp;Connect with us
+## 📲 &nbsp;Connect with us
 
 <p align="center">
 <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/kiprosh/mycompany/">
