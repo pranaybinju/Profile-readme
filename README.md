@@ -4,19 +4,20 @@
   </a>
 </h1>
 
-
 <section align="center">
   <a style="" href="https://www.kiprosh.com" target="_blank" rel="noopener noopener">
-     <img width="50%" src="https://res.cloudinary.com/trackive/image/upload/f_auto,q_auto,c_scale,w_1300/v1574934419/kiprosh%202.0/services/IMG_0666.JPG"/>
-  </a>
-  <h1 align="center">
-    Crafting Ideas Into Reality<br/>
-    We craft scalable web and mobile applications.
-  </h1>
-  
+     <img width="80%" src="https://res.cloudinary.com/trackive/image/upload/f_auto,q_auto,c_scale,w_1300/v1574934419/kiprosh%202.0/services/IMG_0666.JPG"/>
+  </a>  
+</section>
+ <section align="center">
+<h2>
+  Crafting Ideas Into Reality
+  <h4>We craft scalable web & mobile products.</h4>
+</h2>
+
 </section>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <div>
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />&nbsp;
@@ -36,14 +37,14 @@
 ### Core Values
 Our core values define who we are as a company. They guide and inspire us. We stand by these values every day and endeavour to implement them in our work and our relationships with our customers and colleagues.
 
-- ##### Empathy
-- ##### Accountability & Integrity
-- ##### Quality & Passion
-- ##### Diversity & Team Spirit
+- Empathy
+- Accountability & Integrity
+- Quality & Passion
+- Diversity & Team Spirit
 
 ### Blog Posts
-
-### Open Source Contributions
+ 
+<!--- ### Open Source Contributions -->
 
 ### 🚀 &nbsp;We are hiring
 
@@ -52,7 +53,7 @@ Join Our Team: https://kiprosh.com/careers
 
 ### 📲 &nbsp;Connect with us
 
-<p align="center">
+<p>
 <a target="_blank" rel="noopener" href="https://www.linkedin.com/company/kiprosh/mycompany/">
   <img src="https://img.shields.io/badge/-LinkedIN-0E76A8?style=for-the-badge&logo=linkedin"/>
 </a>
