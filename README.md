@@ -1,4 +1,8 @@
-<p align="center"><img src="https://res.cloudinary.com/trackive/image/upload/c_fill,h_175,w_600/v1567775864/public-files/kiprosh-logo-red.png" width="360px"></p>
+<p align="center">
+  <a href="https://www.kiprosh.com" target="_blank" rel="noopener noopener">
+    <img src="https://res.cloudinary.com/trackive/image/upload/c_fill,h_175,w_600/v1567775864/public-files/kiprosh-logo-red.png" width="360px">
+  </a>
+</p>
 
 <h1 align="center">We craft scalable web and mobile applications.</h1>
 
@@ -31,5 +35,9 @@ Join Our Team: https://kiprosh.com/careers
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </p>
+
+## Blog Posts
+
+
 
 by [Kiprosh](https://www.kiprosh.com)
