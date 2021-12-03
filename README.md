@@ -42,7 +42,7 @@ Our core values define who we are as a company. They guide and inspire us. We st
 - Quality & Passion
 - Diversity & Team Spirit
 
-### Blog Posts
+### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
 - [Optimizing data retrieval using Realm Swift query](https://blog.kiprosh.com/optimizing-data-retrieval-using-realm-swift-query/) by Keval Vadoliya
 - [How to replace strings.xml dynamically in Android?](https://blog.kiprosh.com/how-to-replace-strings-xml-dynamically-in-android/) by Aman Garg
