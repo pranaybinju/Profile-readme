@@ -11,7 +11,7 @@
 </section>
  <section align="center">
 <h2>
-  Crafting Ideas Reality
+  Crafting Ideas by Frontend team
   <h4>We craft scalable web & mobile products.</h4>
 </h2>
 
