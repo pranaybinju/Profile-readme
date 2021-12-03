@@ -43,7 +43,8 @@ Our core values define who we are as a company. They guide and inspire us. We st
 - Diversity & Team Spirit
 
 ### Blog Posts
- 
+<!--- BLOG_ENTRY_POINT -->
+
 <!--- ### Open Source Contributions -->
 
 ### 🚀 &nbsp;We are hiring
