@@ -49,4 +49,25 @@ Our core values define who we are as a company. They guide and inspire us. We st
 - [Architect role-permissions based app using React Hooks](https://blog.kiprosh.com/architect-react-apps-using-hooks/) by Shubham Jajoo
 - [Deep Search with Azure Search](https://blog.kiprosh.com/deep-search-with-azure-search/) by Sagar Pathak
 - [Deep dive into ActiveRecord .scoping method in Rails](https://blog.kiprosh.com/activerecord-scoping-method-in-rails/) by Vishal Jain
-undefined
+<!--- BLOG_EXIT_POINT -->
+
+<!--- ### Open Source Contributions -->
+
+### 🚀 &nbsp;We are hiring
+
+Join Our Team: https://kiprosh.com/careers
+&nbsp;
+
+### 📲 &nbsp;Connect with us
+
+<p>
+<a target="_blank" rel="noopener" href="https://www.linkedin.com/company/kiprosh/mycompany/">
+  <img src="https://img.shields.io/badge/-LinkedIN-0E76A8?style=for-the-badge&logo=linkedin"/>
+</a>
+<a target="_blank" rel="noopener" href="mailto:hello@kiprosh.com">
+  <img src="https://img.shields.io/badge/-hello@kiprosh.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a target="_blank" rel="noopener" href="https://twitter.com/KiproshHQ">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+</p>
