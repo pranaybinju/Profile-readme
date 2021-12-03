@@ -44,6 +44,12 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Optimizing data retrieval using Realm Swift query](https://blog.kiprosh.com/optimizing-data-retrieval-using-realm-swift-query/) by Keval Vadoliya
+- [How to replace strings.xml dynamically in Android?](https://blog.kiprosh.com/how-to-replace-strings-xml-dynamically-in-android/) by Aman Garg
+- [Architect role-permissions based app using React Hooks](https://blog.kiprosh.com/architect-react-apps-using-hooks/) by Shubham Jajoo
+- [Deep Search with Azure Search](https://blog.kiprosh.com/deep-search-with-azure-search/) by Sagar Pathak
+- [Deep dive into ActiveRecord .scoping method in Rails](https://blog.kiprosh.com/activerecord-scoping-method-in-rails/) by Vishal Jain
+
 
 <!--- ### Open Source Contributions -->
 
