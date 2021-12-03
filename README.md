@@ -11,7 +11,7 @@
 </section>
  <section align="center">
 <h2>
-  Crafting Ideas Int Reality
+  Crafting Ideas Reality
   <h4>We craft scalable web & mobile products.</h4>
 </h2>
 
