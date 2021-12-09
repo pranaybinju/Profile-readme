@@ -33,9 +33,9 @@
   
 <picture>
   <!-- Use this image if the user's OS setting is light or unset -->
-  <source srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)">
+  <source width="48" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)">
   <!-- Use this image if the user's OS setting is dark -->
-  <source srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <source  width="48" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
 </picture>  
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />&nbsp;
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />&nbsp;
