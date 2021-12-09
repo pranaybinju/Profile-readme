@@ -29,21 +29,17 @@
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" />&nbsp;
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knockout/knockout-plain-wordmark.svg" />&nbsp;
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />&nbsp;
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />&nbsp;  
-<img width="48" id="github-light" src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" />
-<img width="48"  id="github-dark" src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only"/>  
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />&nbsp; 
+  
+<picture>
+  <!-- Use this image if the user's OS setting is light or unset -->
+  <source srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only" media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)">
+  <!-- Use this image if the user's OS setting is dark -->
+  <source srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+</picture>  
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />&nbsp;
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />&nbsp;
-   
-
-
 </div>
- <style>
-      #github-light {
-                display:none;
-            }
- </style>
-
 
 ### Core Values
 Our core values define who we are as a company. They guide and inspire us. We stand by these values every day and endeavour to implement them in our work and our relationships with our customers and colleagues.
