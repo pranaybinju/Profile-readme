@@ -1,12 +1,3 @@
-<style>
-       
-        @media (prefers-color-scheme: dark) {
-            #github-light {
-                display:none;
-            }
-        }
-    </style>
-
 <h1 align="center">
   <a href="https://www.kiprosh.com" target="_blank" rel="noopener noopener">
     <img src="https://res.cloudinary.com/trackive/image/upload/c_fill,h_175,w_600/v1567775864/public-files/kiprosh-logo-red.png" width="360px">
@@ -43,6 +34,17 @@
 <img width="48"  id="github-dark" src="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only"/>  
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />&nbsp;
 <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />&nbsp;
+<style>
+       
+        @media (prefers-color-scheme: dark) {
+            #github-light {
+                display:none;
+            }
+        }
+    </style>
+
+
+
 </div>
 
 ### Core Values
