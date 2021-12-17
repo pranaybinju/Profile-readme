@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Rails 7 brings Import Maps into the limelight](https://blog.kiprosh.com/rails-7-brings-import-maps-into-the-limelight/) by Nipun Paradkar
+- [Why use Azure Notification Hub with Push Notification Service?](https://blog.kiprosh.com/azure_notification_hub_with_pns/) by Aman Shahu
 - [Optimizing data retrieval using Realm Swift query](https://blog.kiprosh.com/optimizing-data-retrieval-using-realm-swift-query/) by Keval Vadoliya
 - [How to replace strings.xml dynamically in Android?](https://blog.kiprosh.com/how-to-replace-strings-xml-dynamically-in-android/) by Aman Garg
 - [Architect role-permissions based app using React Hooks](https://blog.kiprosh.com/architect-react-apps-using-hooks/) by Shubham Jajoo
-- [Deep Search with Azure Search](https://blog.kiprosh.com/deep-search-with-azure-search/) by Sagar Pathak
-- [Deep dive into ActiveRecord .scoping method in Rails](https://blog.kiprosh.com/activerecord-scoping-method-in-rails/) by Vishal Jain
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
