@@ -49,11 +49,11 @@ Our core values define who we are as a company. They guide and inspire us. We st
 
 ### Recent Blog Posts
 <!--- BLOG_ENTRY_POINT -->
+- [Customizing Wistia Player with JavaScript Plugins](https://blog.kiprosh.com/customizing-wistia-player-with-javascript-plugins/) by Imanpal Singh
 - [Rails 7 introduces ComparisonValidator to compare data with validation](https://blog.kiprosh.com/rails7-activerecord-comparison-validator/) by Vishal Jain
 - [Postgres GIN Index in Rails](https://blog.kiprosh.com/postgres-gin-index-in-rails/) by Swati Jadhav
 - [Rails 7 brings Import Maps into the limelight](https://blog.kiprosh.com/rails-7-brings-import-maps-into-the-limelight/) by Nipun Paradkar
 - [Why use Azure Notification Hub with Push Notification Service?](https://blog.kiprosh.com/azure_notification_hub_with_pns/) by Aman Shahu
-- [Optimizing data retrieval using Realm Swift query](https://blog.kiprosh.com/optimizing-data-retrieval-using-realm-swift-query/) by Keval Vadoliya
 <!--- BLOG_EXIT_POINT -->
 
 <!--- ### Open Source Contributions -->
